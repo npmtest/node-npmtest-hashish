@@ -1,6 +1,6 @@
 # npmtest-hashish
 
-#### test coverage for  [hashish (v0.0.4)](https://github.com/substack/node-hashish#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-hashish.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hashish) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hashish.svg)](https://travis-ci.org/npmtest/node-npmtest-hashish)
+#### basic test coverage for  [hashish (v0.0.4)](https://github.com/substack/node-hashish#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-hashish.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hashish) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hashish.svg)](https://travis-ci.org/npmtest/node-npmtest-hashish)
 
 #### Hash data structure manipulation functions
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-hashish/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-hashish/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-hashish/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-hashish/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-hashish/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-hashish/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-hashish/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-hashish/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-hashish/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-hashish/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-hashish/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-hashish/build/coverage.html/index.html)
 
@@ -79,7 +79,8 @@
     "scripts": {
         "test": "expresso"
     },
-    "version": "0.0.4"
+    "version": "0.0.4",
+    "bin": {}
 }
 ```
 

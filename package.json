@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [hashish (v0.0.4)](https://github.com/substack/node-hashish#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-hashish.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hashish) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hashish.svg)](https://travis-ci.org/npmtest/node-npmtest-hashish)",
+    "description": "#### basic test coverage for  [hashish (v0.0.4)](https://github.com/substack/node-hashish#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-hashish.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hashish) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hashish.svg)](https://travis-ci.org/npmtest/node-npmtest-hashish)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "hashish": "*",
